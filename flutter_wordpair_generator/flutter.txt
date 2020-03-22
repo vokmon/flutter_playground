@@ -1,0 +1,21 @@
+1. https://flutter.dev/docs
+2. https://gist.github.com/bradtraversy/f1af78251962bb210c2ebe5b4f9a5c35
+3. install dart and flutter plugins to vscode
+4. install dart and flutter plugins to android studio
+5. open a simulator open -a simulator
+
+Create a new project run
+flutter create flutter-wordpair-generator
+
+On ios simulator - close the app
+command + shift + H
+
+docs
+https://api.flutter.dev/flutter/material/MaterialApp-class.html
+https://api.flutter.dev/flutter/material/Scaffold-class.html
+
+pub.dev npm equivalent
+https://pub.dev/
+
+add new dependencies into pubspec.yml
+dart plugin in vscode will automatically download the dependencies
